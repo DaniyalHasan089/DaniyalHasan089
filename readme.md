@@ -45,6 +45,7 @@
 
 ## 🏆 Featured Repositories
 
+🏆 Featured Repositories
 <div align="center">
   <a href="https://github.com/DaniyalHasan089/habit_tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=habit_tracker&theme=tokyonight&hide_border=true" />
@@ -53,7 +54,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=University-Courses-LLM&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
 <div align="center">
   <a href="https://github.com/DaniyalHasan089/codebase-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=codebase-assistant&theme=tokyonight&hide_border=true" />
@@ -62,7 +62,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=Car-Model-Detection-Using-CNN&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
 ---
 
 ## 🤝 Connect with me
