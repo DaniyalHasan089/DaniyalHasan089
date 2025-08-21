@@ -62,6 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=Car-Model-Detection-Using-CNN&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
 ---
 
 ## 🤝 Connect with me
