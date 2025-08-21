@@ -57,7 +57,7 @@
 ---
 
 <div align="center">
-  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
+  <i>"AI will not replace humans, but those who use AI will replace those who don’t." – Ginni Rometty</i>
 </div>
 
 <div align="center">
