@@ -4,10 +4,9 @@
 
 - 🔭 Currently working on **AI-powered applications** and **mobile development**
 - 🌱 Learning **Agentic AI**, **Flutter**, and **Deep Learning**
-- 🤝 Looking for collaborators on [Habit Tracker](https://github.com/DaniyalHasan089/habit_tracker) and AI projects
 - 👨‍💻 All of my projects are available at **github.com/DaniyalHasan089**
 - 💬 Ask me about **Flutter**, **Python**, **AI/ML**, and **Computer Vision**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **daniyalhasan2003.28@gmail.com**
 - 📄 Know about my experiences: [Your Resume Link](https://drive.google.com/your-resume-link)
 - ⚡ Fun fact: **I love building things that make life easier and more productive!**
 
