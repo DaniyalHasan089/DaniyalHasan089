@@ -1,23 +1,27 @@
-Hi! 👋 I'm Daniyal Hasan
+# Hi! 👋 I'm Daniyal Hasan
 
+---
 
-🔭 Currently working on AI-powered applications and mobile development
-🌱 Learning Agentic AI, Flutter, and Deep Learning
-🤝 Looking for collaborators on Habit Tracker and AI projects
-👨‍💻 All of my projects are available at github.com/DaniyalHasan089
-💬 Ask me about Flutter, Python, AI/ML, and Computer Vision
-📫 How to reach me: your.email@gmail.com
-📄 Know about my experiences: Your Resume Link
-⚡ Fun fact: I love building things that make life easier and more productive!
+- 🔭 Currently working on **AI-powered applications** and **mobile development**
+- 🌱 Learning **Agentic AI**, **Flutter**, and **Deep Learning**
+- 🤝 Looking for collaborators on [Habit Tracker](https://github.com/DaniyalHasan089/habit_tracker) and AI projects
+- 👨‍💻 All of my projects are available at **github.com/DaniyalHasan089**
+- 💬 Ask me about **Flutter**, **Python**, **AI/ML**, and **Computer Vision**
+- 📫 How to reach me: **your.email@gmail.com**
+- 📄 Know about my experiences: [Your Resume Link](https://drive.google.com/your-resume-link)
+- ⚡ Fun fact: **I love building things that make life easier and more productive!**
 
+---
 
-🛠️ Languages and Tools
+## 🛠️ Languages and Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -25,16 +29,23 @@ Hi! 👋 I'm Daniyal Hasan
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniyalHasan089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalHasan089&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalHasan089&theme=tokyonight&hide_border=true" />
 </div>
 
-🏆 Featured Repositories
+---
+
+## 🏆 Featured Repositories
+
 <div align="center">
   <a href="https://github.com/DaniyalHasan089/habit_tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=habit_tracker&theme=tokyonight&hide_border=true" />
@@ -43,6 +54,7 @@ Hi! 👋 I'm Daniyal Hasan
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=University-Courses-LLM&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
 <div align="center">
   <a href="https://github.com/DaniyalHasan089/codebase-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaniyalHasan089&repo=codebase-assistant&theme=tokyonight&hide_border=true" />
@@ -52,7 +64,10 @@ Hi! 👋 I'm Daniyal Hasan
   </a>
 </div>
 
-🤝 Connect with me
+---
+
+## 🤝 Connect with me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/daniyal-hasan-b199022b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -62,9 +77,12 @@ Hi! 👋 I'm Daniyal Hasan
   </a>
 </p>
 
+---
+
 <div align="center">
   <i>"The best way to predict the future is to invent it." – Alan Kay</i>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DaniyalHasan089&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
