@@ -3,6 +3,7 @@
 ---
 
 - 🔭 Currently working on **AI-powered applications** and **mobile development**
+- 👩🏻‍💻 Currently looking for **Junior Level AI/ML Positions** 
 - 🌱 Learning **Agentic AI**, **Flutter**, and **Deep Learning**
 - 👨‍💻 All of my projects are available at **github.com/DaniyalHasan089**
 - 💬 Ask me about **Flutter**, **Python**, **AI/ML**, and **Computer Vision**
