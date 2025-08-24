@@ -9,6 +9,7 @@
 - 💬 Ask me about **Flutter**, **Python**, **AI/ML**, and **Computer Vision**
 - 📫 How to reach me: **daniyalhasan2003.28@gmail.com**
 - 📄 Know about my experiences: [Check Out My Resume Here](https://drive.google.com/file/d/1CqwQwVCwoDqA0oOcog8HQvH_L3ao6oNj/view?usp=sharing)
+- 📄 Check out my portfolio here: [Link](https://daniyalhasansyed.netlify.app/)
 - ⚡ Fun fact: **I love building things that make life easier and more productive!**
 
 ---
